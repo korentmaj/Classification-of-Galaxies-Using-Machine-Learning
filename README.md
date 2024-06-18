@@ -1,4 +1,4 @@
-# Classification of Celestial Bodies Using Machine Learning
+# Classification of Galaxies Using Machine Learning
 
 ## Overview
 This repository contains the code and datasets for the research project "Klasifikacija nebesnih teles z uporabo strojnega učenja" (Classification of Celestial Bodies Using Machine Learning). The project aims to analyze and classify various celestial bodies using advanced machine learning techniques. By leveraging a diverse dataset that includes photographs and spectroscopic data among other measurable information, we aim to develop a model capable of predicting and analyzing numerous properties of celestial bodies, including those not yet identified.
